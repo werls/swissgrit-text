@@ -6,7 +6,7 @@ A quick way to get some ragged text with [DrawBot](https://www.drawbot.com).
 
 This code was originally made for the visual identity of the book *Guia Anônima*, by **Junia Zaidan**. The idea behind this was to reference punk posters and anonymous letters, but in a more contemporary way: instead of individually cut letters, the expected end result was something akin to the style known as "swiss grit", popularized by [Chris Ashworth](https://www.instagram.com/ashworthchris/).  
 
-[Check out the full project of the book on Behance](be.net/werls)  
+[Check out the full project of the book on Behance](https://be.net/werls)  
 
 ## Examples
 
