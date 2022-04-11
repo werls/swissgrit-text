@@ -4,15 +4,18 @@ A quick way to get some ragged text with [DrawBot](https://www.drawbot.com).
 
 ## About
 
-This code was originally made for the visual identity of the book *Guia Anônima*, by **Junia Zaidan**. The idea behind this was to reference punk posters and anonymous letters, but in a more contemporary way: instead of individually cut letters, the expected end result was something akin to the style known as "swiss grit", popularized by [Chris Ashworth](https://www.instagram.com/ashworthchris/).
+This code was originally made for the visual identity of the book *Guia Anônima*, by **Junia Zaidan**. The idea behind this was to reference punk posters and anonymous letters, but in a more contemporary way: instead of individually cut letters, the expected end result was something akin to the style known as "swiss grit", popularized by [Chris Ashworth](https://www.instagram.com/ashworthchris/).  
+
+[Check out the full project of the book on Behance](be.net/werls)  
 
 ## Examples
 
 ### Basic output
 ![ragged-text](./examples/guia-anonima-excerpt.png "Ragged Text")
 
-### The way that was used on the book
-![mockup-guia-anonima](./examples/guia-anonima-mockup-01.jpg "Cover")
+### The way that the output images was used on the book
+![Mockup Guia Anônima: Cover](./examples/guia-anonima-mockup-01.jpg "Cover")
+![Mockup Guia Anônima: Bookblock](./examples/guia-anonima-mockup-02.jpg "Bookblock")
 
 ## Some thoughts on the algorithm
 
