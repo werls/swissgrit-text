@@ -1,6 +1,11 @@
 # Ragged Text
 # Werllen Castro, 2022
 # github.com/werls/ragged-text
+# 
+# Originally made for Guia Anônima
+# 
+# Full design process on Behance:
+# https://
 
 from drawBot import *
 from random import random as random
