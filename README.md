@@ -17,6 +17,9 @@ This code was originally made for the visual identity of the book *Guia Anônima
 ![Mockup Guia Anônima: Cover](./examples/guia-anonima-mockup-01.jpg "Cover")
 ![Mockup Guia Anônima: Bookblock](./examples/guia-anonima-mockup-02.jpg "Bookblock")
 
+### Animation
+![Animation](./examples/guia-anonima-animated-1920x1080.gif "Animation")
+
 ## Some thoughts on the algorithm
 
 With the objective that at the end it would be possible to obtain a vectorized image, I used the DrawBot's [clipPath() function](https://www.drawbot.com/content/shapes/drawingPath.html?highlight=clippath#drawBot.clipPath), so at each loop the text is written/drawn in its entirety and a small part of it is selected. Maybe this is not the clever way to solve this problem, as it becomes a very time-consuming process depending on the amount of clipping needed, but it was certainly the fastest way to write this algorithm.  
