@@ -9,7 +9,6 @@ This code was originally made for the visual identity of the book *Guia Anônima
 [Check out the full project of the book on Behance](https://be.net/werls)  
 
 ## Examples
----
 
 ### Basic output
 ![ragged-text](./examples/guia-anonima-excerpt.png "Ragged Text")
