@@ -1,4 +1,4 @@
-# Ragged Text  
+# Swissgrit Text  
 
 A quick way to get some ragged text with [DrawBot](https://www.drawbot.com).
 
