@@ -1,6 +1,6 @@
-# Ragged Text
+# Swissgrit Text
 # Werllen Castro, 2022
-# github.com/werls/ragged-text
+# github.com/werls/swissgrit-text
 # 
 # Originally made for Guia Anônima
 # 
