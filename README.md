@@ -14,8 +14,8 @@ This code was originally made for the visual identity of the book *Guia Anônima
 ![ragged-text](./examples/guia-anonima-excerpt.png "Ragged Text")
 
 ### The way that the output images was used on the book
-![Mockup Guia Anônima: Cover](./examples/guia-anonima-mockup-01.jpg "Cover")
-![Mockup Guia Anônima: Bookblock](./examples/guia-anonima-mockup-02.jpg "Bookblock")
+![Mockup Guia Anônima: Cover](./examples/mockups/guia-anonima-mockup-01.jpg "Cover")
+![Mockup Guia Anônima: Bookblock](./examples/mockups/guia-anonima-mockup-02.jpg "Bookblock")
 
 ### Animation
 ![Animation](./examples/guia-anonima-animated-1920x1080.gif "Animation")
